@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/google123facebook/Video-App/static/css/main.91e9fdfb.css",
-    "main.js": "/google123facebook/Video-App/static/js/main.5382f999.js",
+    "main.js": "/google123facebook/Video-App/static/js/main.f7c2d1bb.js",
     "static/js/453.b1578c88.chunk.js": "/google123facebook/Video-App/static/js/453.b1578c88.chunk.js",
     "index.html": "/google123facebook/Video-App/index.html",
     "main.91e9fdfb.css.map": "/google123facebook/Video-App/static/css/main.91e9fdfb.css.map",
-    "main.5382f999.js.map": "/google123facebook/Video-App/static/js/main.5382f999.js.map",
+    "main.f7c2d1bb.js.map": "/google123facebook/Video-App/static/js/main.f7c2d1bb.js.map",
     "453.b1578c88.chunk.js.map": "/google123facebook/Video-App/static/js/453.b1578c88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91e9fdfb.css",
-    "static/js/main.5382f999.js"
+    "static/js/main.f7c2d1bb.js"
   ]
 }
